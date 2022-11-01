@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">2018077_RecycleView</string>
+    <string-array name="Sunscreen">
+        <item>Sunscreen</item>
+        <item>Azarine</item>
+        <item>wardah</item>
+
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+
+    </string-array>
+    <string-array
+        name="deskripsi">
+        <item>Rp. 50.000</item>
+        <item>Rp. 52.900</item>
+        <item>Rp. 25.000</item>
+    </string-array> </resources>
